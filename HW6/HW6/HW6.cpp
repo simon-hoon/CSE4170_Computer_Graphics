@@ -899,7 +899,7 @@ void greetings(char *program_name, char messages[][256], int n_message_lines) {
 
 #define N_MESSAGE_LINES 1
 void main(int argc, char *argv[]) {
-	char program_name[64] = "KIM SANGHOON HW6";
+	char program_name[64] = "20140021 ±ËªÛ»∆ HW6";
 	char messages[N_MESSAGE_LINES][256] = { "    - Keys used: '0', '1', '2', '3', 't', 'q', 'r', 'w', 'x', 'y', 'z', 'up', 'down', 'right', 'left', 'page up', 'page down', 'r', 'ESC', and mouse wheel (rolling)"  };
 
 	glutInit(&argc, argv);
