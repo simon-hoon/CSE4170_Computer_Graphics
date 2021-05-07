@@ -1,6 +1,6 @@
 # CSE4170_Computer_Graphics
 
-+ visual studio 2019, (Hw3 - x64, Hw6 - x86)
++ visual studio 2019, (HW3 - x64, HW6 - x86)
 + OpenGL 3.3 ↑ should be installed on 'C:/usr/local/...'
 ## HW3 (2D)
 
